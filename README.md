@@ -144,7 +144,7 @@ Users can interact with the chatbot through the front-end interface. Choose betw
 
 ## Contributeurs
 
-   - [BAKKALI AYOUB](https://github.com/BAKKALIAYOUB).
+   - [BAKKALI AYOUB](https://github.com/BAKKALIAYOUB).  
 
    - [NIDAR SALMA](https://github.com/salma31nidar).
 
